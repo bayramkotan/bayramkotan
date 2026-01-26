@@ -1,109 +1,96 @@
 <div align="center">
-  
-# Merhaba! Ben Bayram Kotan 👋
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bayramkotan/)
-[![ORCID](https://img.shields.io/badge/ORCID-A6CE39?style=for-the-badge&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-3166-979X)
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/bayramkotan)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=200&section=header&text=Bayram%20Kotan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=35&desc=Network%20Security%20%7C%20Deep%20Learning%20%7C%20Intrusion%20Detection&descAlignY=55&descSize=16)
+
+[![LinkedIn](https://img.shields.io/badge/-bayramkotan-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bayramkotan/)
+[![ORCID](https://img.shields.io/badge/-0000--0002--3166--979X-A6CE39?style=flat&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-3166-979X)
+[![GitHub](https://img.shields.io/badge/-bayramkotan-181717?style=flat&logo=github&logoColor=white)](https://github.com/bayramkotan)
 
 </div>
 
----
+## Merhaba
 
-## 🧑‍💻 Hakkımda
+Ağ trafiğinde "normal"in ne olduğunu tanımlamak kolay. Asıl zor olan, anormalliği milyonlarca paket içinde bir iğne gibi bulmak. Ben de tam olarak bununla uğraşıyorum: makine öğrenmesi modellerini eğiterek ağ saldırılarını gerçek zamanlı tespit eden sistemler geliştiriyorum.
 
-Ağ güvenliği ve derin öğrenme alanlarında uzmanlaşmış bir yazılım geliştirici ve araştırmacıyım. Makine öğrenmesi tekniklerini kullanarak ağ anomali tespiti ve saldırı sınıflandırma sistemleri geliştiriyorum.
-
-- 🔬 **Araştırma Alanlarım:** Ağ Güvenliği, Derin Öğrenme, Saldırı Tespit Sistemleri
-- 🎓 **Tez Konusu:** Ağ Anomali Yönetim Sistemi ve Derin Öğrenme ile Karşılaştırmalı Analiz
-- 🌍 **Konum:** Türkiye
+Tez çalışmamda NSL-KDD veri seti üzerinde 6 farklı algoritmayı (MLP, SVM, Decision Tree, Random Forest, Logistic Regression, Gaussian NB) karşılaştırdım. Sonuç? Her algoritmanın DoS, Probe, R2L ve U2R saldırılarında farklı güçlü yanları var — tek bir "en iyi" model yok, bağlam her şeyi değiştiriyor.
 
 ---
 
-## 🛠️ Teknolojiler ve Araçlar
+## Şu Anda Üzerinde Çalıştıklarım
+
+```
+├── 🔬 Tez: Ağ Anomali Yönetim Sistemi — karşılaştırmalı derin öğrenme analizi
+├── 📊 NSL-KDD üzerinde 125K+ örnek ile model optimizasyonu  
+├── 🧪 PCA + MinMax scaling + 5-Fold CV pipeline geliştirme
+└── 📝 Araştırma sonuçlarını açık kaynak olarak paylaşma
+```
+
+---
+
+## Teknik Yığın
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+<br>Python
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow" />
+<br>TensorFlow
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn" />
+<br>Scikit-learn
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
+<br>C#
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+<br>Git
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=vscode" width="48" height="48" alt="VS Code" />
+<br>VS Code
+</td>
+</tr>
+</table>
+
+**Kütüphaneler:** Keras · Pandas · NumPy · Matplotlib · Seaborn
+
+---
+
+## Seçili Projeler
+
+| Proje | Açıklama | Teknoloji |
+|-------|----------|-----------|
+| [**Network Anomaly Detection**](https://github.com/bayramkotan/Network-Anomaly-Management-System-and-Comparative-Analysis-with-Deep-Learning) | 5 sınıflı ağ trafiği sınıflandırması (Normal, DoS, Probe, R2L, U2R). 6 ML algoritmasının karşılaştırmalı performans analizi. | `Python` `Keras` `Scikit-learn` |
+| [**MLP Traffic Classification**](https://github.com/bayramkotan/Network-Traffic-Classification-Analysis-With-Multi-Layer-Perceptron) | Çok katmanlı algılayıcı ile ağ trafiği analizi. | `Python` `TensorFlow` |
+| [**Financial Crisis Prediction**](https://github.com/bayramkotan/financial-crisis-prediction-nlp-ts-ml-dl-transformers) | NLP ve transformer modelleri ile finansal kriz tahmini. | `Python` `Transformers` `NLP` |
+
+---
+
+## İstatistikler
 
 <div align="center">
 
-### Programlama Dilleri
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-
-### Makine Öğrenmesi & Derin Öğrenme
-![TensorFlow](https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Keras](https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikit-learn&logoColor=white)
-![Pandas](https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![NumPy](https://img.shields.io/badge/NumPy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-
-### Araçlar & Platformlar
-![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=for-the-badge&logo=jupyter&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![VS Code](https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+<img src="https://github-readme-stats.vercel.app/api?username=bayramkotan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9" height="165" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayramkotan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9" height="165" />
 
 </div>
 
 ---
 
-## 📊 Öne Çıkan Projeler
+## İletişim
 
-### 🔐 [Network Anomaly Management System](https://github.com/bayramkotan/Network-Anomaly-Management-System-and-Comparative-Analysis-with-Deep-Learning)
-NSL-KDD veri seti kullanarak ağ trafiğini 5 kategoriye (Normal, DoS, Probe, R2L, U2R) sınıflandıran kapsamlı bir saldırı tespit sistemi. Çoklu makine öğrenmesi algoritmaları (Neural Networks, SVM, Decision Trees, Logistic Regression, Gaussian Naive Bayes) ile karşılaştırmalı analiz içerir.
-
-**Özellikler:**
-- 125,973 eğitim ve 25,192 test örneği
-- LabelEncoder, MinMax ölçekleme, PCA boyut indirgeme
-- 5-Fold çapraz doğrulama
-- Çift dilli dokümantasyon (TR/EN)
-
-### 🧠 [Network Traffic Classification with MLP](https://github.com/bayramkotan/Network-Traffic-Classification-Analysis-With-Multi-Layer-Perceptron)
-Çok katmanlı algılayıcı (MLP) kullanarak ağ trafiği sınıflandırma analizi.
-
-### 📈 [Financial Crisis Prediction](https://github.com/bayramkotan/financial-crisis-prediction-nlp-ts-ml-dl-transformers)
-NLP, zaman serisi analizi, makine öğrenmesi, derin öğrenme ve transformer modelleri kullanarak finansal kriz tahmini.
-
----
-
-## 📈 GitHub İstatistikleri
-
-<div align="center">
-  
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=bayramkotan&show_icons=true&theme=tokyonight&hide_border=true&locale=tr)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=bayramkotan&layout=compact&theme=tokyonight&hide_border=true&locale=tr)
-
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bayramkotan&theme=tokyonight&hide_border=true&locale=tr)
-
-</div>
-
----
-
-## 🏆 GitHub Trofeler
+Ağ güvenliği, saldırı tespit sistemleri veya makine öğrenmesi uygulamaları hakkında konuşmak isterseniz — LinkedIn üzerinden ulaşabilirsiniz.
 
 <div align="center">
 
-![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bayramkotan&theme=tokyonight&no-frame=true&row=1&column=6)
+![](https://komarev.com/ghpvc/?username=bayramkotan&color=1a1a2e&style=flat&label=Profil+Görüntülenmesi)
 
 </div>
 
----
-
-## 📫 İletişim
-
-<div align="center">
-
-Benimle iletişime geçmekten çekinmeyin! Ağ güvenliği, makine öğrenmesi ve derin öğrenme konularında işbirliği yapmaktan mutluluk duyarım.
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn'de_Bağlantı_Kur-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bayramkotan/)
-[![Email](https://img.shields.io/badge/Email_Gönder-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:bayramkotan@example.com)
-
-</div>
-
----
-
-<div align="center">
-  
-![Visitor Count](https://komarev.com/ghpvc/?username=bayramkotan&color=blue&style=for-the-badge)
-
-⭐️ [bayramkotan](https://github.com/bayramkotan)
-
-</div>
+![Footer](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=100&section=footer)
