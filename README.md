@@ -291,20 +291,14 @@ A practical networking tool for IP subnet calculations, demonstrating applied kn
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bayramkotan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayramkotan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayramkotan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" height="200" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=bayramkotan&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak" />
-
-</div>
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=bayramkotan&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
+![GitHub followers](https://img.shields.io/github/followers/bayramkotan?style=for-the-badge&logo=github&labelColor=0d1117&color=58a6ff)
+![GitHub stars](https://img.shields.io/github/stars/bayramkotan?style=for-the-badge&logo=github&labelColor=0d1117&color=58a6ff)
 
 </div>
 
@@ -600,14 +594,14 @@ IP alt ağ hesaplamaları için pratik bir ağ aracı, ağ temellerinin uygulama
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=bayramkotan&show_icons=true&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&icon_color=58a6ff&text_color=c9d1d9&include_all_commits=true&count_private=true&locale=tr" height="180" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayramkotan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=8&locale=tr" height="180" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayramkotan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10&locale=tr" height="200" />
 
 </div>
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=bayramkotan&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&locale=tr" alt="GitHub Streak" />
+![GitHub followers](https://img.shields.io/github/followers/bayramkotan?style=for-the-badge&logo=github&labelColor=0d1117&color=58a6ff&label=Takipçi)
+![GitHub stars](https://img.shields.io/github/stars/bayramkotan?style=for-the-badge&logo=github&labelColor=0d1117&color=58a6ff&label=Yıldız)
 
 </div>
 
