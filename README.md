@@ -1,11 +1,16 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=220&section=header&text=Bayram%20Kotan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=32&desc=Network%20Security%20Researcher%20%7C%20Deep%20Learning%20Engineer%20%7C%20Intrusion%20Detection%20Systems&descAlignY=52&descSize=16)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=250&section=header&text=Bayram%20Kotan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=PhD%20Candidate%20%7C%20Data%20%26%20Cloud%20Architect%20%7C%20MEng&descAlignY=48&descSize=18&descAlign=50)
 
 [![LinkedIn](https://img.shields.io/badge/-bayramkotan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bayramkotan/)
 [![ORCID](https://img.shields.io/badge/-0000--0002--3166--979X-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-3166-979X)
 [![GitHub](https://img.shields.io/badge/-bayramkotan-181717?style=flat-square&logo=github&logoColor=white)](https://github.com/bayramkotan)
 ![Profile Views](https://komarev.com/ghpvc/?username=bayramkotan&color=1a1a2e&style=flat-square&label=Profile+Views)
+
+[![PMP](https://img.shields.io/badge/PMP®-Certified-2E5B82?style=flat-square&logo=pmi&logoColor=white)](https://www.pmi.org/)
+[![Azure](https://img.shields.io/badge/Microsoft_Azure-Certified-0078D4?style=flat-square&logo=microsoftazure&logoColor=white)](https://azure.microsoft.com/)
+[![CCNA](https://img.shields.io/badge/Cisco_CCNA-Certified-1BA0D7?style=flat-square&logo=cisco&logoColor=white)](https://www.cisco.com/)
+[![CC](https://img.shields.io/badge/ISC²_CC-Certified-00A651?style=flat-square&logo=isc2&logoColor=white)](https://www.isc2.org/)
 
 </div>
 
@@ -16,11 +21,13 @@
 
 ## About Me
 
+PhD Candidate and Data & Cloud Architect with a Master's degree in Engineering, specializing in network security research and deep learning applications. I hold industry certifications including PMP®, Microsoft Azure, Cisco CCNA, and ISC² CC, combining academic research with practical enterprise experience.
+
 Defining "normal" in network traffic is straightforward. The real challenge? Finding anomalies hidden like needles in haystacks of millions of packets. That's exactly what I do — I build machine learning models that detect network attacks in real-time, turning raw traffic data into actionable security intelligence.
 
-My thesis research compared 6 different algorithms (MLP, SVM, Decision Tree, Random Forest, Logistic Regression, Gaussian Naive Bayes) on the NSL-KDD dataset. The key insight? There's no single "best" model — each algorithm has unique strengths across DoS, Probe, R2L, and U2R attack categories. Context changes everything, and that's what makes this field fascinating.
+My doctoral research compares 6 different algorithms (MLP, SVM, Decision Tree, Random Forest, Logistic Regression, Gaussian Naive Bayes) on the NSL-KDD dataset. The key insight? There's no single "best" model — each algorithm has unique strengths across DoS, Probe, R2L, and U2R attack categories. Context changes everything, and that's what makes this field fascinating.
 
-Beyond network security, I'm deeply interested in how deep learning can be applied to solve real-world problems — from financial crisis prediction using NLP and transformers to traffic classification with neural networks.
+Beyond network security, I architect data and cloud solutions while exploring how deep learning can solve real-world problems — from financial crisis prediction using NLP and transformers to traffic classification with neural networks.
 
 ---
 
@@ -54,6 +61,7 @@ Beyond network security, I'm deeply interested in how deep learning can be appli
 
 | Area | Focus | Methods |
 |------|-------|---------|
+| **Cloud & Data Architecture** | Enterprise Solutions, Data Pipelines, Cloud Infrastructure | Azure, AWS, Terraform |
 | **Network Security** | Intrusion Detection Systems (IDS), Anomaly Detection, Attack Classification | Supervised & Unsupervised Learning |
 | **Deep Learning** | Neural Network Architectures, Multi-Layer Perceptrons, Model Optimization | TensorFlow, Keras, PyTorch |
 | **Machine Learning** | Classification, Feature Engineering, Model Comparison | Scikit-learn, XGBoost |
@@ -81,6 +89,10 @@ Beyond network security, I'm deeply interested in how deep learning can be appli
 <br><b>Scikit-learn</b>
 </td>
 <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
+<br><b>Azure</b>
+</td>
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
 <br><b>C#</b>
 </td>
@@ -94,6 +106,7 @@ Beyond network security, I'm deeply interested in how deep learning can be appli
 ### ML & Data Science Stack
 
 ```
+Cloud & Data        : Microsoft Azure · AWS · Terraform · Data Pipelines
 Deep Learning       : Keras · TensorFlow · Neural Networks · MLP
 Machine Learning    : Scikit-learn · SVM · Decision Trees · Random Forest · Naive Bayes
 Data Processing     : Pandas · NumPy · Feature Engineering · PCA
@@ -230,11 +243,13 @@ I'm always interested in discussing network security, intrusion detection system
 
 ## Hakkımda
 
+Ağ güvenliği araştırması ve derin öğrenme uygulamalarında uzmanlaşmış, Mühendislik Yüksek Lisansı derecesine sahip Doktora Adayı ve Veri & Bulut Mimarıyım. PMP®, Microsoft Azure, Cisco CCNA ve ISC² CC dahil sektör sertifikalarına sahibim; akademik araştırmayı pratik kurumsal deneyimle birleştiriyorum.
+
 Ağ trafiğinde "normal"in ne olduğunu tanımlamak kolay bir iş. Asıl zorluk, milyonlarca paket içinde samanlıkta iğne aramak gibi gizlenmiş anomalileri bulmak. Ben tam olarak bunu yapıyorum — ham trafik verilerini eyleme dönüştürülebilir güvenlik istihbaratına çeviren, ağ saldırılarını gerçek zamanlı tespit eden makine öğrenmesi modelleri geliştiriyorum.
 
-Tez araştırmamda NSL-KDD veri seti üzerinde 6 farklı algoritmayı (MLP, SVM, Karar Ağacı, Random Forest, Lojistik Regresyon, Gaussian Naive Bayes) karşılaştırdım. Temel bulgu şu: Tek bir "en iyi" model yok — her algoritmanın DoS, Probe, R2L ve U2R saldırı kategorilerinde kendine özgü güçlü yanları var. Bağlam her şeyi değiştiriyor ve bu alanı bu kadar ilgi çekici yapan da tam olarak bu.
+Doktora araştırmamda NSL-KDD veri seti üzerinde 6 farklı algoritmayı (MLP, SVM, Karar Ağacı, Random Forest, Lojistik Regresyon, Gaussian Naive Bayes) karşılaştırıyorum. Temel bulgu şu: Tek bir "en iyi" model yok — her algoritmanın DoS, Probe, R2L ve U2R saldırı kategorilerinde kendine özgü güçlü yanları var. Bağlam her şeyi değiştiriyor ve bu alanı bu kadar ilgi çekici yapan da tam olarak bu.
 
-Ağ güvenliğinin ötesinde, derin öğrenmenin gerçek dünya problemlerini çözmek için nasıl uygulanabileceğiyle de yakından ilgileniyorum — NLP ve transformer'lar kullanarak finansal kriz tahmininden sinir ağlarıyla trafik sınıflandırmaya kadar geniş bir yelpazede çalışıyorum.
+Ağ güvenliğinin ötesinde, veri ve bulut çözümleri tasarlarken derin öğrenmenin gerçek dünya problemlerini nasıl çözebileceğini araştırıyorum — NLP ve transformer'lar kullanarak finansal kriz tahmininden sinir ağlarıyla trafik sınıflandırmaya kadar geniş bir yelpazede çalışıyorum.
 
 ---
 
@@ -268,6 +283,7 @@ Ağ güvenliğinin ötesinde, derin öğrenmenin gerçek dünya problemlerini ç
 
 | Alan | Odak | Yöntemler |
 |------|------|-----------|
+| **Bulut & Veri Mimarisi** | Kurumsal Çözümler, Veri Pipeline'ları, Bulut Altyapısı | Azure, AWS, Terraform |
 | **Ağ Güvenliği** | Saldırı Tespit Sistemleri (IDS), Anomali Tespiti, Saldırı Sınıflandırma | Denetimli ve Denetimsiz Öğrenme |
 | **Derin Öğrenme** | Sinir Ağı Mimarileri, Çok Katmanlı Algılayıcılar, Model Optimizasyonu | TensorFlow, Keras, PyTorch |
 | **Makine Öğrenmesi** | Sınıflandırma, Özellik Mühendisliği, Model Karşılaştırma | Scikit-learn, XGBoost |
@@ -295,6 +311,10 @@ Ağ güvenliğinin ötesinde, derin öğrenmenin gerçek dünya problemlerini ç
 <br><b>Scikit-learn</b>
 </td>
 <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
+<br><b>Azure</b>
+</td>
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
 <br><b>C#</b>
 </td>
@@ -308,6 +328,7 @@ Ağ güvenliğinin ötesinde, derin öğrenmenin gerçek dünya problemlerini ç
 ### ML ve Veri Bilimi Stack'i
 
 ```
+Bulut & Veri       : Microsoft Azure · AWS · Terraform · Veri Pipeline'ları
 Derin Öğrenme      : Keras · TensorFlow · Sinir Ağları · MLP
 Makine Öğrenmesi   : Scikit-learn · SVM · Karar Ağaçları · Random Forest · Naive Bayes
 Veri İşleme        : Pandas · NumPy · Özellik Mühendisliği · PCA
