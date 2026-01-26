@@ -27,7 +27,7 @@ I'm driven by the power of technology to solve real-world problems and enable or
 
 My doctoral research focuses on financial crisis prediction using a multi-modal approach that combines Natural Language Processing, time series analysis, machine learning, deep learning, and transformer architectures. By analyzing sentiment in financial texts and forecasting economic indicators, I'm developing models that can provide early warning signals for potential market disruptions.
 
-I also maintain active research in network security — my Master's thesis (2019) compared 6 different algorithms on the NSL-KDD dataset for intrusion detection, demonstrating that context matters more than any single "best" model when classifying DoS, Probe, R2L, and U2R attacks.
+I also maintain active research in network security — my Master's thesis "Network Monitoring System using Machine Learning: Comparative Analysis of Classification Techniques for Network Traffic Monitoring" (2019) compared 6 different algorithms on the NSL-KDD dataset, demonstrating that context matters more than any single "best" model when classifying DoS, Probe, R2L, and U2R attacks.
 
 Whether through advanced analytics with BI tools like Power BI and Tableau, or virtualization and cloud integration, my focus is on delivering transformative results that support business re-engineering efforts.
 
@@ -247,10 +247,10 @@ NLP & Transformers  : Hugging Face · Sentiment Analysis · Text Classification
 
 ---
 
-### 🔐 [MSc Thesis] Network Anomaly Management System — Comparative Deep Learning Analysis
+### 🔐 [MSc Thesis] Network Monitoring System using Machine Learning: Comparative Analysis of Classification Techniques for Network Traffic Monitoring
 [![GitHub](https://img.shields.io/badge/-View_Repository-181717?style=flat-square&logo=github)](https://github.com/bayramkotan/Network-Anomaly-Management-System-and-Comparative-Analysis-with-Deep-Learning)
 
-**Master's thesis project (2019)** — A comprehensive intrusion detection system that classifies network traffic into 5 categories using the NSL-KDD dataset. This research compared multiple machine learning approaches for network anomaly detection.
+**Master's thesis project (2019)** — A comprehensive network monitoring system that classifies network traffic into 5 categories using the NSL-KDD dataset. This research compared multiple machine learning classification techniques for network traffic monitoring and anomaly detection.
 
 **Key Features:**
 - **Dataset:** NSL-KDD with 125,973 training and 25,192 test samples
@@ -298,13 +298,13 @@ A practical networking tool for IP subnet calculations, demonstrating applied kn
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bayramkotan&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com/?user=bayramkotan&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff" alt="GitHub Streak" />
 
 </div>
 
 <div align="center">
 
-[![GitHub Trophies](https://github-profile-trophy.vercel.app/?username=bayramkotan&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=bayramkotan&theme=darkhub&no-frame=true&no-bg=true&column=7&margin-w=10" alt="GitHub Trophies" />
 
 </div>
 
@@ -336,7 +336,7 @@ Teknolojinin gerçek dünya problemlerini çözme gücü beni motive ediyor. Org
 
 Doktora araştırmam, Doğal Dil İşleme, zaman serisi analizi, makine öğrenmesi, derin öğrenme ve transformer mimarilerini birleştiren çok modlu bir yaklaşımla finansal kriz tahminine odaklanıyor. Finansal metinlerdeki duyguları analiz ederek ve ekonomik göstergeleri tahmin ederek, potansiyel piyasa bozulmaları için erken uyarı sinyalleri sağlayabilecek modeller geliştiriyorum.
 
-Ayrıca ağ güvenliği alanında aktif araştırmalarımı sürdürüyorum — Yüksek Lisans tezimde (2019) saldırı tespiti için NSL-KDD veri seti üzerinde 6 farklı algoritmayı karşılaştırdım ve DoS, Probe, R2L ve U2R saldırılarını sınıflandırırken tek bir "en iyi" modelden ziyade bağlamın önemli olduğunu gösterdim.
+Ayrıca ağ güvenliği alanında aktif araştırmalarımı sürdürüyorum — "Makine Öğrenmesi Kullanarak Ağ İzleme Sistemi: Ağ Trafiği İzleme için Sınıflandırma Tekniklerinin Karşılaştırmalı Analizi" başlıklı Yüksek Lisans tezimde (2019) NSL-KDD veri seti üzerinde 6 farklı algoritmayı karşılaştırdım ve DoS, Probe, R2L ve U2R saldırılarını sınıflandırırken tek bir "en iyi" modelden ziyade bağlamın önemli olduğunu gösterdim.
 
 Power BI ve Tableau gibi BI araçlarıyla gelişmiş analitikten sanallaştırma ve bulut entegrasyonuna kadar odak noktam, iş süreçlerinin yeniden yapılandırılmasını destekleyen dönüştürücü sonuçlar sunmak.
 
@@ -556,10 +556,10 @@ NLP & Transformers  : Hugging Face · Duygu Analizi · Metin Sınıflandırma
 
 ---
 
-### 🔐 [Yüksek Lisans Tezi] Ağ Anomali Yönetim Sistemi — Karşılaştırmalı Derin Öğrenme Analizi
+### 🔐 [Yüksek Lisans Tezi] Makine Öğrenmesi Kullanarak Ağ İzleme Sistemi: Ağ Trafiği İzleme için Sınıflandırma Tekniklerinin Karşılaştırmalı Analizi
 [![GitHub](https://img.shields.io/badge/-Repository'yi_Görüntüle-181717?style=flat-square&logo=github)](https://github.com/bayramkotan/Network-Anomaly-Management-System-and-Comparative-Analysis-with-Deep-Learning)
 
-**Yüksek Lisans tez projesi (2019)** — NSL-KDD veri setini kullanarak ağ trafiğini 5 kategoriye sınıflandıran kapsamlı bir saldırı tespit sistemi. Bu araştırma, ağ anomali tespiti için birden fazla makine öğrenmesi yaklaşımını karşılaştırdı.
+**Yüksek Lisans tez projesi (2019)** — NSL-KDD veri setini kullanarak ağ trafiğini 5 kategoriye sınıflandıran kapsamlı bir ağ izleme sistemi. Bu araştırma, ağ trafiği izleme ve anomali tespiti için birden fazla makine öğrenmesi sınıflandırma tekniğini karşılaştırdı.
 
 **Temel Özellikler:**
 - **Veri Seti:** 125.973 eğitim ve 25.192 test örneği içeren NSL-KDD
@@ -607,7 +607,7 @@ IP alt ağ hesaplamaları için pratik bir ağ aracı, ağ temellerinin uygulama
 
 <div align="center">
 
-[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=bayramkotan&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&locale=tr)](https://git.io/streak-stats)
+<img src="https://streak-stats.demolab.com/?user=bayramkotan&theme=github-dark-blue&hide_border=true&background=0d1117&stroke=58a6ff&ring=58a6ff&fire=ff6b6b&currStreakLabel=58a6ff&locale=tr" alt="GitHub Streak" />
 
 </div>
 
