@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=250&section=header&text=Bayram%20Kotan&fontSize=50&fontColor=fff&animation=fadeIn&fontAlignY=30&desc=PhD%20Candidate%20%7C%20Data%20%26%20Cloud%20Architect%20%7C%20MEng&descAlignY=48&descSize=18&descAlign=50)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=250&section=header&text=Bayram%20Kotan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=PhD%20Candidate%20|%20Data%20and%20Cloud%20Architect%20|%20MEng&descAlignY=55&descSize=20)
 
 [![LinkedIn](https://img.shields.io/badge/-bayramkotan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bayramkotan/)
 [![ORCID](https://img.shields.io/badge/-0000--0002--3166--979X-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-3166-979X)
@@ -21,13 +21,15 @@
 
 ## About Me
 
-PhD Candidate and Data & Cloud Architect with a Master's degree in Engineering, specializing in network security research and deep learning applications. I hold industry certifications including PMP®, Microsoft Azure, Cisco CCNA, and ISC² CC, combining academic research with practical enterprise experience.
+PhD Candidate and Data & Cloud Architect with over a decade of hands-on experience in data science, cloud architecture, and business intelligence. I hold a Master's degree in Engineering along with industry certifications including PMP®, Microsoft Azure, Cisco CCNA, and ISC² CC.
 
-Defining "normal" in network traffic is straightforward. The real challenge? Finding anomalies hidden like needles in haystacks of millions of packets. That's exactly what I do — I build machine learning models that detect network attacks in real-time, turning raw traffic data into actionable security intelligence.
+I'm driven by the power of technology to solve real-world problems and enable organizations to achieve their objectives through smart, data-driven strategies. My proficiency extends across leading cloud platforms (Azure, AWS, GCP), virtualization technologies (Docker, Kubernetes, VMware, KVM), and open-source systems (Linux, FreeBSD, Unix). I specialize in building secure, scalable infrastructures that drive operational efficiency and innovation.
 
-My doctoral research compares 6 different algorithms (MLP, SVM, Decision Tree, Random Forest, Logistic Regression, Gaussian Naive Bayes) on the NSL-KDD dataset. The key insight? There's no single "best" model — each algorithm has unique strengths across DoS, Probe, R2L, and U2R attack categories. Context changes everything, and that's what makes this field fascinating.
+My doctoral research focuses on financial crisis prediction using a multi-modal approach that combines Natural Language Processing, time series analysis, machine learning, deep learning, and transformer architectures. By analyzing sentiment in financial texts and forecasting economic indicators, I'm developing models that can provide early warning signals for potential market disruptions.
 
-Beyond network security, I architect data and cloud solutions while exploring how deep learning can solve real-world problems — from financial crisis prediction using NLP and transformers to traffic classification with neural networks.
+I also maintain active research in network security — my Master's thesis (2019) compared 6 different algorithms on the NSL-KDD dataset for intrusion detection, demonstrating that context matters more than any single "best" model when classifying DoS, Probe, R2L, and U2R attacks.
+
+Whether through advanced analytics with BI tools like Power BI and Tableau, or virtualization and cloud integration, my focus is on delivering transformative results that support business re-engineering efforts.
 
 ---
 
@@ -35,24 +37,26 @@ Beyond network security, I architect data and cloud solutions while exploring ho
 
 ```
 📂 Current Focus
-├── 🔬 Thesis: Network Anomaly Management System
-│   ├── Comparative deep learning analysis across 6 ML algorithms
-│   ├── 125,973 training samples + 25,192 test samples from NSL-KDD
-│   └── 5-class classification: Normal, DoS, Probe, R2L, U2R
+├── 🎓 PhD Research: Financial Crisis Prediction
+│   ├── Multi-modal approach combining NLP, Time Series, ML, DL & Transformers
+│   ├── Sentiment analysis of financial texts and news
+│   ├── Economic indicator forecasting with deep learning
+│   └── Transformer architectures for sequence modeling
 │
-├── 🧪 ML Pipeline Development
-│   ├── Feature engineering with LabelEncoder & MinMax scaling
-│   ├── Dimensionality reduction using PCA
-│   └── Model validation with 5-Fold Cross Validation
+├── ☁️ Cloud & Data Architecture
+│   ├── Designing scalable enterprise solutions on Azure, AWS, GCP
+│   ├── Building data pipelines and ETL processes
+│   └── Infrastructure as Code with Terraform
 │
-├── 📊 Performance Optimization
-│   ├── Hyperparameter tuning for neural network architectures
-│   ├── Comparative analysis of precision, recall, and F1-scores
-│   └── Confusion matrix analysis for attack type identification
+├── 📊 Business Intelligence
+│   ├── Advanced analytics with Power BI and Tableau
+│   ├── Data visualization and executive dashboards
+│   └── Data-driven decision support systems
 │
-└── 📝 Open Source Contributions
-    ├── Publishing research code with bilingual documentation (EN/TR)
-    └── Making datasets and preprocessing pipelines accessible
+└── 🐧 Open Source & DevOps
+    ├── Container orchestration with Docker & Kubernetes
+    ├── Linux/FreeBSD system administration
+    └── Virtualization solutions (KVM, VMware, Proxmox)
 ```
 
 ---
@@ -61,12 +65,13 @@ Beyond network security, I architect data and cloud solutions while exploring ho
 
 | Area | Focus | Methods |
 |------|-------|---------|
-| **Cloud & Data Architecture** | Enterprise Solutions, Data Pipelines, Cloud Infrastructure | Azure, AWS, Terraform |
+| **Cloud & Data Architecture** | Enterprise Solutions, Data Pipelines, Cloud Infrastructure | Azure, AWS, GCP, Terraform |
+| **Virtualization & DevOps** | Container Orchestration, Infrastructure as Code, Hypervisors | Docker, Kubernetes, VMware, KVM |
+| **Business Intelligence** | Data Visualization, Reporting, Analytics Dashboards | Power BI, Tableau, DAX |
 | **Network Security** | Intrusion Detection Systems (IDS), Anomaly Detection, Attack Classification | Supervised & Unsupervised Learning |
 | **Deep Learning** | Neural Network Architectures, Multi-Layer Perceptrons, Model Optimization | TensorFlow, Keras, PyTorch |
 | **Machine Learning** | Classification, Feature Engineering, Model Comparison | Scikit-learn, XGBoost |
-| **Data Science** | Large-scale Data Processing, Statistical Analysis, Visualization | Pandas, NumPy, Matplotlib |
-| **Financial ML** | Crisis Prediction, Time Series Analysis, Sentiment Analysis | NLP, Transformers |
+| **Open Source Systems** | Linux Administration, BSD Systems, System Architecture | Linux, FreeBSD, Unix |
 
 ---
 
@@ -93,12 +98,43 @@ Beyond network security, I architect data and cloud solutions while exploring ho
 <br><b>Azure</b>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
-<br><b>C#</b>
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+<br><b>AWS</b>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
-<br><b>.NET</b>
+<img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
+<br><b>GCP</b>
+</td>
+</tr>
+</table>
+
+### Infrastructure & DevOps
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br><b>Linux</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" width="48" height="48" alt="Unix" />
+<br><b>Unix/BSD</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br><b>Docker</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+<br><b>Kubernetes</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="48" height="48" alt="Terraform" />
+<br><b>Terraform</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.worldvectorlogo.com/logos/kvm.svg" width="48" height="48" alt="KVM" />
+<br><b>KVM</b>
 </td>
 </tr>
 </table>
@@ -106,11 +142,13 @@ Beyond network security, I architect data and cloud solutions while exploring ho
 ### ML & Data Science Stack
 
 ```
-Cloud & Data        : Microsoft Azure · AWS · Terraform · Data Pipelines
+Cloud Platforms     : Microsoft Azure · AWS · Google Cloud Platform
+Virtualization      : Docker · Kubernetes · VMware · KVM · Proxmox
+Operating Systems   : Linux · FreeBSD · Unix · Open Source Systems
 Deep Learning       : Keras · TensorFlow · Neural Networks · MLP
 Machine Learning    : Scikit-learn · SVM · Decision Trees · Random Forest · Naive Bayes
 Data Processing     : Pandas · NumPy · Feature Engineering · PCA
-Visualization       : Matplotlib · Seaborn · Confusion Matrices · ROC Curves
+BI & Visualization  : Power BI · Tableau · Matplotlib · Seaborn
 NLP & Transformers  : Hugging Face · Sentiment Analysis · Text Classification
 ```
 
@@ -131,12 +169,16 @@ NLP & Transformers  : Hugging Face · Sentiment Analysis · Text Classification
 <br><b>VS Code</b>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" />
-<br><b>Anaconda</b>
-</td>
-<td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" />
 <br><b>Jupyter</b>
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/power-bi.png" width="48" height="48" alt="Power BI" />
+<br><b>Power BI</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48" height="48" alt="Tableau" />
+<br><b>Tableau</b>
 </td>
 </tr>
 </table>
@@ -145,10 +187,26 @@ NLP & Transformers  : Hugging Face · Sentiment Analysis · Text Classification
 
 ## Featured Projects
 
-### 🔐 Network Anomaly Management System and Comparative Analysis with Deep Learning
+### 🎓 [PhD Research] Financial Crisis Prediction with NLP, Time Series, ML, DL & Transformers
+[![GitHub](https://img.shields.io/badge/-View_Repository-181717?style=flat-square&logo=github)](https://github.com/bayramkotan/financial-crisis-prediction-nlp-ts-ml-dl-transformers)
+
+**Ongoing doctoral research** — An interdisciplinary project combining natural language processing, time series analysis, and transformer models to predict financial crises. This work demonstrates the application of cutting-edge ML techniques to real-world economic challenges.
+
+**Key Features:**
+- **NLP Pipeline:** Sentiment analysis of financial news, reports, and social media
+- **Time Series:** Economic indicator forecasting with LSTM and advanced architectures
+- **Transformers:** State-of-the-art sequence modeling for pattern recognition
+- **Ensemble Methods:** Combining multiple methodologies for robust predictions
+- **Real-world Application:** Early warning system for market disruptions
+
+**Tech Stack:** `Python` `Transformers` `Hugging Face` `TensorFlow` `LSTM` `NLP` `Time Series`
+
+---
+
+### 🔐 [MSc Thesis] Network Anomaly Management System — Comparative Deep Learning Analysis
 [![GitHub](https://img.shields.io/badge/-View_Repository-181717?style=flat-square&logo=github)](https://github.com/bayramkotan/Network-Anomaly-Management-System-and-Comparative-Analysis-with-Deep-Learning)
 
-A comprehensive intrusion detection system that classifies network traffic into 5 categories using the NSL-KDD dataset. This project represents my thesis work, comparing multiple machine learning approaches for network anomaly detection.
+**Master's thesis project (2019)** — A comprehensive intrusion detection system that classifies network traffic into 5 categories using the NSL-KDD dataset. This research compared multiple machine learning approaches for network anomaly detection.
 
 **Key Features:**
 - **Dataset:** NSL-KDD with 125,973 training and 25,192 test samples
@@ -173,21 +231,6 @@ Deep dive into neural network-based traffic classification using Multi-Layer Per
 - Detailed analysis of hidden layer configurations
 
 **Tech Stack:** `Python` `TensorFlow` `Keras` `Neural Networks`
-
----
-
-### 📈 Financial Crisis Prediction with NLP, Time Series, ML, DL & Transformers
-[![GitHub](https://img.shields.io/badge/-View_Repository-181717?style=flat-square&logo=github)](https://github.com/bayramkotan/financial-crisis-prediction-nlp-ts-ml-dl-transformers)
-
-An interdisciplinary project combining natural language processing, time series analysis, and transformer models to predict financial crises. Demonstrates the application of cutting-edge ML techniques to real-world economic challenges.
-
-**Key Features:**
-- NLP-based sentiment analysis of financial texts
-- Time series forecasting for economic indicators
-- Transformer architecture for sequence modeling
-- Ensemble approaches combining multiple methodologies
-
-**Tech Stack:** `Python` `Transformers` `NLP` `Time Series` `Deep Learning`
 
 ---
 
@@ -243,13 +286,15 @@ I'm always interested in discussing network security, intrusion detection system
 
 ## Hakkımda
 
-Ağ güvenliği araştırması ve derin öğrenme uygulamalarında uzmanlaşmış, Mühendislik Yüksek Lisansı derecesine sahip Doktora Adayı ve Veri & Bulut Mimarıyım. PMP®, Microsoft Azure, Cisco CCNA ve ISC² CC dahil sektör sertifikalarına sahibim; akademik araştırmayı pratik kurumsal deneyimle birleştiriyorum.
+Veri bilimi, bulut mimarisi ve iş zekası alanlarında on yılı aşkın uygulamalı deneyime sahip Doktora Adayı ve Veri & Bulut Mimarıyım. Mühendislik Yüksek Lisansı derecesinin yanı sıra PMP®, Microsoft Azure, Cisco CCNA ve ISC² CC sertifikalarına sahibim.
 
-Ağ trafiğinde "normal"in ne olduğunu tanımlamak kolay bir iş. Asıl zorluk, milyonlarca paket içinde samanlıkta iğne aramak gibi gizlenmiş anomalileri bulmak. Ben tam olarak bunu yapıyorum — ham trafik verilerini eyleme dönüştürülebilir güvenlik istihbaratına çeviren, ağ saldırılarını gerçek zamanlı tespit eden makine öğrenmesi modelleri geliştiriyorum.
+Teknolojinin gerçek dünya problemlerini çözme gücü beni motive ediyor. Organizasyonların akıllı, veri odaklı stratejilerle hedeflerine ulaşmasını sağlamak için çalışıyorum. Uzmanlığım önde gelen bulut platformları (Azure, AWS, GCP), sanallaştırma teknolojileri (Docker, Kubernetes, VMware, KVM) ve açık kaynak sistemleri (Linux, FreeBSD, Unix) kapsıyor. Operasyonel verimliliği ve inovasyonu artıran güvenli, ölçeklenebilir altyapılar inşa etmede uzmanlaşıyorum.
 
-Doktora araştırmamda NSL-KDD veri seti üzerinde 6 farklı algoritmayı (MLP, SVM, Karar Ağacı, Random Forest, Lojistik Regresyon, Gaussian Naive Bayes) karşılaştırıyorum. Temel bulgu şu: Tek bir "en iyi" model yok — her algoritmanın DoS, Probe, R2L ve U2R saldırı kategorilerinde kendine özgü güçlü yanları var. Bağlam her şeyi değiştiriyor ve bu alanı bu kadar ilgi çekici yapan da tam olarak bu.
+Doktora araştırmam, Doğal Dil İşleme, zaman serisi analizi, makine öğrenmesi, derin öğrenme ve transformer mimarilerini birleştiren çok modlu bir yaklaşımla finansal kriz tahminine odaklanıyor. Finansal metinlerdeki duyguları analiz ederek ve ekonomik göstergeleri tahmin ederek, potansiyel piyasa bozulmaları için erken uyarı sinyalleri sağlayabilecek modeller geliştiriyorum.
 
-Ağ güvenliğinin ötesinde, veri ve bulut çözümleri tasarlarken derin öğrenmenin gerçek dünya problemlerini nasıl çözebileceğini araştırıyorum — NLP ve transformer'lar kullanarak finansal kriz tahmininden sinir ağlarıyla trafik sınıflandırmaya kadar geniş bir yelpazede çalışıyorum.
+Ayrıca ağ güvenliği alanında aktif araştırmalarımı sürdürüyorum — Yüksek Lisans tezimde (2019) saldırı tespiti için NSL-KDD veri seti üzerinde 6 farklı algoritmayı karşılaştırdım ve DoS, Probe, R2L ve U2R saldırılarını sınıflandırırken tek bir "en iyi" modelden ziyade bağlamın önemli olduğunu gösterdim.
+
+Power BI ve Tableau gibi BI araçlarıyla gelişmiş analitikten sanallaştırma ve bulut entegrasyonuna kadar odak noktam, iş süreçlerinin yeniden yapılandırılmasını destekleyen dönüştürücü sonuçlar sunmak.
 
 ---
 
@@ -257,24 +302,26 @@ Ağ güvenliğinin ötesinde, veri ve bulut çözümleri tasarlarken derin öğr
 
 ```
 📂 Mevcut Odak Alanları
-├── 🔬 Tez: Ağ Anomali Yönetim Sistemi
-│   ├── 6 ML algoritması üzerinde karşılaştırmalı derin öğrenme analizi
-│   ├── NSL-KDD'den 125.973 eğitim + 25.192 test örneği
-│   └── 5 sınıflı sınıflandırma: Normal, DoS, Probe, R2L, U2R
+├── 🎓 Doktora Araştırması: Finansal Kriz Tahmini
+│   ├── NLP, Zaman Serisi, ML, DL ve Transformers'ı birleştiren çok modlu yaklaşım
+│   ├── Finansal metinlerin ve haberlerin duygu analizi
+│   ├── Derin öğrenme ile ekonomik gösterge tahmini
+│   └── Dizi modelleme için Transformer mimarileri
 │
-├── 🧪 ML Pipeline Geliştirme
-│   ├── LabelEncoder ve MinMax ölçekleme ile özellik mühendisliği
-│   ├── PCA kullanarak boyut indirgeme
-│   └── 5-Fold Çapraz Doğrulama ile model validasyonu
+├── ☁️ Bulut & Veri Mimarisi
+│   ├── Azure, AWS, GCP üzerinde ölçeklenebilir kurumsal çözümler tasarlama
+│   ├── Veri pipeline'ları ve ETL süreçleri oluşturma
+│   └── Terraform ile Kod Olarak Altyapı
 │
-├── 📊 Performans Optimizasyonu
-│   ├── Sinir ağı mimarileri için hiperparametre ayarlama
-│   ├── Precision, recall ve F1-score karşılaştırmalı analizi
-│   └── Saldırı türü tanımlama için karmaşıklık matrisi analizi
+├── 📊 İş Zekası
+│   ├── Power BI ve Tableau ile gelişmiş analitik
+│   ├── Veri görselleştirme ve yönetici dashboard'ları
+│   └── Veri odaklı karar destek sistemleri
 │
-└── 📝 Açık Kaynak Katkıları
-    ├── Çift dilli dokümantasyonla (EN/TR) araştırma kodlarını yayınlama
-    └── Veri setlerini ve ön işleme pipeline'larını erişilebilir kılma
+└── 🐧 Açık Kaynak & DevOps
+    ├── Docker ve Kubernetes ile container orkestrasyonu
+    ├── Linux/FreeBSD sistem yönetimi
+    └── Sanallaştırma çözümleri (KVM, VMware, Proxmox)
 ```
 
 ---
@@ -283,12 +330,13 @@ Ağ güvenliğinin ötesinde, veri ve bulut çözümleri tasarlarken derin öğr
 
 | Alan | Odak | Yöntemler |
 |------|------|-----------|
-| **Bulut & Veri Mimarisi** | Kurumsal Çözümler, Veri Pipeline'ları, Bulut Altyapısı | Azure, AWS, Terraform |
+| **Bulut & Veri Mimarisi** | Kurumsal Çözümler, Veri Pipeline'ları, Bulut Altyapısı | Azure, AWS, GCP, Terraform |
+| **Sanallaştırma & DevOps** | Container Orkestrasyonu, Kod Olarak Altyapı, Hypervisor'lar | Docker, Kubernetes, VMware, KVM |
+| **İş Zekası** | Veri Görselleştirme, Raporlama, Analitik Dashboard'lar | Power BI, Tableau, DAX |
 | **Ağ Güvenliği** | Saldırı Tespit Sistemleri (IDS), Anomali Tespiti, Saldırı Sınıflandırma | Denetimli ve Denetimsiz Öğrenme |
 | **Derin Öğrenme** | Sinir Ağı Mimarileri, Çok Katmanlı Algılayıcılar, Model Optimizasyonu | TensorFlow, Keras, PyTorch |
 | **Makine Öğrenmesi** | Sınıflandırma, Özellik Mühendisliği, Model Karşılaştırma | Scikit-learn, XGBoost |
-| **Veri Bilimi** | Büyük Ölçekli Veri İşleme, İstatistiksel Analiz, Görselleştirme | Pandas, NumPy, Matplotlib |
-| **Finansal ML** | Kriz Tahmini, Zaman Serisi Analizi, Duygu Analizi | NLP, Transformers |
+| **Açık Kaynak Sistemler** | Linux Yönetimi, BSD Sistemleri, Sistem Mimarisi | Linux, FreeBSD, Unix |
 
 ---
 
@@ -315,12 +363,43 @@ Ağ güvenliğinin ötesinde, veri ve bulut çözümleri tasarlarken derin öğr
 <br><b>Azure</b>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=cs" width="48" height="48" alt="C#" />
-<br><b>C#</b>
+<img src="https://skillicons.dev/icons?i=aws" width="48" height="48" alt="AWS" />
+<br><b>AWS</b>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=dotnet" width="48" height="48" alt=".NET" />
-<br><b>.NET</b>
+<img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
+<br><b>GCP</b>
+</td>
+</tr>
+</table>
+
+### Altyapı ve DevOps
+
+<table>
+<tr>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+<br><b>Linux</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/unix/unix-original.svg" width="48" height="48" alt="Unix" />
+<br><b>Unix/BSD</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+<br><b>Docker</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=kubernetes" width="48" height="48" alt="Kubernetes" />
+<br><b>Kubernetes</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="48" height="48" alt="Terraform" />
+<br><b>Terraform</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.worldvectorlogo.com/logos/kvm.svg" width="48" height="48" alt="KVM" />
+<br><b>KVM</b>
 </td>
 </tr>
 </table>
@@ -328,12 +407,14 @@ Ağ güvenliğinin ötesinde, veri ve bulut çözümleri tasarlarken derin öğr
 ### ML ve Veri Bilimi Stack'i
 
 ```
-Bulut & Veri       : Microsoft Azure · AWS · Terraform · Veri Pipeline'ları
-Derin Öğrenme      : Keras · TensorFlow · Sinir Ağları · MLP
-Makine Öğrenmesi   : Scikit-learn · SVM · Karar Ağaçları · Random Forest · Naive Bayes
-Veri İşleme        : Pandas · NumPy · Özellik Mühendisliği · PCA
-Görselleştirme     : Matplotlib · Seaborn · Karmaşıklık Matrisleri · ROC Eğrileri
-NLP & Transformers : Hugging Face · Duygu Analizi · Metin Sınıflandırma
+Bulut Platformları  : Microsoft Azure · AWS · Google Cloud Platform
+Sanallaştırma       : Docker · Kubernetes · VMware · KVM · Proxmox
+İşletim Sistemleri  : Linux · FreeBSD · Unix · Açık Kaynak Sistemler
+Derin Öğrenme       : Keras · TensorFlow · Sinir Ağları · MLP
+Makine Öğrenmesi    : Scikit-learn · SVM · Karar Ağaçları · Random Forest · Naive Bayes
+Veri İşleme         : Pandas · NumPy · Özellik Mühendisliği · PCA
+BI & Görselleştirme : Power BI · Tableau · Matplotlib · Seaborn
+NLP & Transformers  : Hugging Face · Duygu Analizi · Metin Sınıflandırma
 ```
 
 ### Araçlar ve Platformlar
@@ -353,12 +434,16 @@ NLP & Transformers : Hugging Face · Duygu Analizi · Metin Sınıflandırma
 <br><b>VS Code</b>
 </td>
 <td align="center" width="96">
-<img src="https://skillicons.dev/icons?i=anaconda" width="48" height="48" alt="Anaconda" />
-<br><b>Anaconda</b>
-</td>
-<td align="center" width="96">
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jupyter/jupyter-original.svg" width="48" height="48" alt="Jupyter" />
 <br><b>Jupyter</b>
+</td>
+<td align="center" width="96">
+<img src="https://img.icons8.com/color/48/power-bi.png" width="48" height="48" alt="Power BI" />
+<br><b>Power BI</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.worldvectorlogo.com/logos/tableau-software.svg" width="48" height="48" alt="Tableau" />
+<br><b>Tableau</b>
 </td>
 </tr>
 </table>
@@ -367,10 +452,26 @@ NLP & Transformers : Hugging Face · Duygu Analizi · Metin Sınıflandırma
 
 ## Öne Çıkan Projeler
 
-### 🔐 Ağ Anomali Yönetim Sistemi ve Derin Öğrenme ile Karşılaştırmalı Analiz
+### 🎓 [Doktora Araştırması] NLP, Zaman Serisi, ML, DL ve Transformers ile Finansal Kriz Tahmini
+[![GitHub](https://img.shields.io/badge/-Repository'yi_Görüntüle-181717?style=flat-square&logo=github)](https://github.com/bayramkotan/financial-crisis-prediction-nlp-ts-ml-dl-transformers)
+
+**Devam eden doktora araştırması** — Finansal krizleri tahmin etmek için doğal dil işleme, zaman serisi analizi ve transformer modellerini birleştiren disiplinlerarası bir proje. Bu çalışma, en güncel ML tekniklerinin gerçek dünya ekonomik zorluklarına uygulanmasını gösteriyor.
+
+**Temel Özellikler:**
+- **NLP Pipeline:** Finansal haberler, raporlar ve sosyal medyanın duygu analizi
+- **Zaman Serisi:** LSTM ve gelişmiş mimarilerle ekonomik gösterge tahmini
+- **Transformers:** Örüntü tanıma için son teknoloji dizi modelleme
+- **Topluluk Yöntemleri:** Güçlü tahminler için birden fazla metodolojinin birleştirilmesi
+- **Gerçek Dünya Uygulaması:** Piyasa bozulmaları için erken uyarı sistemi
+
+**Teknoloji Stack'i:** `Python` `Transformers` `Hugging Face` `TensorFlow` `LSTM` `NLP` `Zaman Serisi`
+
+---
+
+### 🔐 [Yüksek Lisans Tezi] Ağ Anomali Yönetim Sistemi — Karşılaştırmalı Derin Öğrenme Analizi
 [![GitHub](https://img.shields.io/badge/-Repository'yi_Görüntüle-181717?style=flat-square&logo=github)](https://github.com/bayramkotan/Network-Anomaly-Management-System-and-Comparative-Analysis-with-Deep-Learning)
 
-NSL-KDD veri setini kullanarak ağ trafiğini 5 kategoriye sınıflandıran kapsamlı bir saldırı tespit sistemi. Bu proje, ağ anomali tespiti için birden fazla makine öğrenmesi yaklaşımını karşılaştıran tez çalışmamı temsil ediyor.
+**Yüksek Lisans tez projesi (2019)** — NSL-KDD veri setini kullanarak ağ trafiğini 5 kategoriye sınıflandıran kapsamlı bir saldırı tespit sistemi. Bu araştırma, ağ anomali tespiti için birden fazla makine öğrenmesi yaklaşımını karşılaştırdı.
 
 **Temel Özellikler:**
 - **Veri Seti:** 125.973 eğitim ve 25.192 test örneği içeren NSL-KDD
@@ -395,21 +496,6 @@ NSL-KDD veri setini kullanarak ağ trafiğini 5 kategoriye sınıflandıran kaps
 - Gizli katman konfigürasyonlarının detaylı analizi
 
 **Teknoloji Stack'i:** `Python` `TensorFlow` `Keras` `Sinir Ağları`
-
----
-
-### 📈 NLP, Zaman Serisi, ML, DL ve Transformers ile Finansal Kriz Tahmini
-[![GitHub](https://img.shields.io/badge/-Repository'yi_Görüntüle-181717?style=flat-square&logo=github)](https://github.com/bayramkotan/financial-crisis-prediction-nlp-ts-ml-dl-transformers)
-
-Finansal krizleri tahmin etmek için doğal dil işleme, zaman serisi analizi ve transformer modellerini birleştiren disiplinlerarası bir proje. En güncel ML tekniklerinin gerçek dünya ekonomik zorluklarına uygulanmasını gösteriyor.
-
-**Temel Özellikler:**
-- Finansal metinlerin NLP tabanlı duygu analizi
-- Ekonomik göstergeler için zaman serisi tahmini
-- Dizi modelleme için transformer mimarisi
-- Birden fazla metodolojiyi birleştiren topluluk yaklaşımları
-
-**Teknoloji Stack'i:** `Python` `Transformers` `NLP` `Zaman Serisi` `Derin Öğrenme`
 
 ---
 
