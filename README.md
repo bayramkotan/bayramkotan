@@ -90,8 +90,26 @@ Whether through advanced analytics with BI tools like Power BI and Tableau, or v
 <br><b>TensorFlow</b>
 </td>
 <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+<br><b>PyTorch</b>
+</td>
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn" />
 <br><b>Scikit-learn</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="48" height="48" alt="Keras" />
+<br><b>Keras</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+<br><b>Pandas</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+<br><b>NumPy</b>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
@@ -104,6 +122,14 @@ Whether through advanced analytics with BI tools like Power BI and Tableau, or v
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
 <br><b>GCP</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV" />
+<br><b>OpenCV</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />
+<br><b>Matplotlib</b>
 </td>
 </tr>
 </table>
@@ -132,9 +158,27 @@ Whether through advanced analytics with BI tools like Power BI and Tableau, or v
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="48" height="48" alt="Terraform" />
 <br><b>Terraform</b>
 </td>
+</tr>
+<tr>
 <td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/kvm.svg" width="48" height="48" alt="KVM" />
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" height="48" alt="VMware" />
+<br><b>VMware</b>
+</td>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/KVM-000000?style=for-the-badge&logo=linux&logoColor=white" height="48" alt="KVM" />
 <br><b>KVM</b>
+</td>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="48" alt="Cisco" />
+<br><b>Cisco</b>
+</td>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" height="48" alt="Proxmox" />
+<br><b>Proxmox</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+<br><b>Bash</b>
 </td>
 </tr>
 </table>
@@ -355,8 +399,26 @@ Power BI ve Tableau gibi BI araçlarıyla gelişmiş analitikten sanallaştırma
 <br><b>TensorFlow</b>
 </td>
 <td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch" />
+<br><b>PyTorch</b>
+</td>
+<td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="Scikit-learn" />
 <br><b>Scikit-learn</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/keras/keras-original.svg" width="48" height="48" alt="Keras" />
+<br><b>Keras</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/pandas/pandas-original.svg" width="48" height="48" alt="Pandas" />
+<br><b>Pandas</b>
+</td>
+</tr>
+<tr>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/numpy/numpy-original.svg" width="48" height="48" alt="NumPy" />
+<br><b>NumPy</b>
 </td>
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=azure" width="48" height="48" alt="Azure" />
@@ -369,6 +431,14 @@ Power BI ve Tableau gibi BI araçlarıyla gelişmiş analitikten sanallaştırma
 <td align="center" width="96">
 <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
 <br><b>GCP</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/opencv/opencv-original.svg" width="48" height="48" alt="OpenCV" />
+<br><b>OpenCV</b>
+</td>
+<td align="center" width="96">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/matplotlib/matplotlib-original.svg" width="48" height="48" alt="Matplotlib" />
+<br><b>Matplotlib</b>
 </td>
 </tr>
 </table>
@@ -397,9 +467,27 @@ Power BI ve Tableau gibi BI araçlarıyla gelişmiş analitikten sanallaştırma
 <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/terraform/terraform-original.svg" width="48" height="48" alt="Terraform" />
 <br><b>Terraform</b>
 </td>
+</tr>
+<tr>
 <td align="center" width="96">
-<img src="https://cdn.worldvectorlogo.com/logos/kvm.svg" width="48" height="48" alt="KVM" />
+<img src="https://img.shields.io/badge/VMware-607078?style=for-the-badge&logo=vmware&logoColor=white" height="48" alt="VMware" />
+<br><b>VMware</b>
+</td>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/KVM-000000?style=for-the-badge&logo=linux&logoColor=white" height="48" alt="KVM" />
 <br><b>KVM</b>
+</td>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white" height="48" alt="Cisco" />
+<br><b>Cisco</b>
+</td>
+<td align="center" width="96">
+<img src="https://img.shields.io/badge/Proxmox-E57000?style=for-the-badge&logo=proxmox&logoColor=white" height="48" alt="Proxmox" />
+<br><b>Proxmox</b>
+</td>
+<td align="center" width="96">
+<img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+<br><b>Bash</b>
 </td>
 </tr>
 </table>
