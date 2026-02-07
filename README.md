@@ -1,6 +1,6 @@
 <div align="center">
 
-![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=250&section=header&text=Bayram%20Kotan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=PhD%20Candidate%20|%20Data%20and%20Cloud%20Architect%20|%20MEng&descAlignY=55&descSize=20)
+![Header](https://capsule-render.vercel.app/api?type=waving&color=0:1a1a2e,100:16213e&height=250&section=header&text=Bayram%20Kotan&fontSize=60&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Data%20and%20Cloud%20Architect%20|%20PhD%20|%20PMP®,%20Azure,%20CCNA,%20CC&descAlignY=55&descSize=20)
 
 [![LinkedIn](https://img.shields.io/badge/-bayramkotan-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bayramkotan/)
 [![ORCID](https://img.shields.io/badge/-0000--0002--3166--979X-A6CE39?style=flat-square&logo=orcid&logoColor=white)](https://orcid.org/0000-0002-3166-979X)
@@ -21,11 +21,11 @@
 
 ## About Me
 
-PhD Candidate and Data & Cloud Architect with over a decade of hands-on experience in data science, cloud architecture, and business intelligence. I hold a Master's degree in Engineering along with industry certifications including PMP®, Microsoft Azure, Cisco CCNA, and ISC² CC.
+PhD and Data & Cloud Architect with over a decade of hands-on experience in data science, cloud architecture, and business intelligence. I hold a Doctorate degree along with a Master's in Engineering and industry certifications including PMP®, Microsoft Azure, Cisco CCNA, and ISC² CC.
 
 I'm driven by the power of technology to solve real-world problems and enable organizations to achieve their objectives through smart, data-driven strategies. My proficiency extends across leading cloud platforms (Azure, AWS, GCP), virtualization technologies (Docker, Kubernetes, VMware, KVM), and open-source systems (Linux, FreeBSD, Unix). I specialize in building secure, scalable infrastructures that drive operational efficiency and innovation.
 
-My doctoral research focuses on financial crisis prediction using a multi-modal approach that combines Natural Language Processing, time series analysis, machine learning, deep learning, and transformer architectures. By analyzing sentiment in financial texts and forecasting economic indicators, I'm developing models that can provide early warning signals for potential market disruptions.
+My doctoral research focused on financial crisis prediction using a multi-modal approach that combines Natural Language Processing, time series analysis, machine learning, deep learning, and transformer architectures. By analyzing sentiment in financial texts and forecasting economic indicators, I developed models that provide early warning signals for potential market disruptions.
 
 I also maintain active research in network security — my Master's thesis "Network Monitoring System using Machine Learning: Comparative Analysis of Classification Techniques for Network Traffic Monitoring" (2019) compared 6 different algorithms on the NSL-KDD dataset, demonstrating that context matters more than any single "best" model when classifying DoS, Probe, R2L, and U2R attacks.
 
@@ -37,7 +37,7 @@ Whether through advanced analytics with BI tools like Power BI and Tableau, or v
 
 ```
 📂 Current Focus
-├── 🎓 PhD Research: Financial Crisis Prediction
+├── 🎓 Completed PhD Research: Financial Crisis Prediction
 │   ├── Multi-modal approach combining NLP, Time Series, ML, DL & Transformers
 │   ├── Sentiment analysis of financial texts and news
 │   ├── Economic indicator forecasting with deep learning
@@ -231,10 +231,10 @@ NLP & Transformers  : Hugging Face · Sentiment Analysis · Text Classification
 
 ## Featured Projects
 
-### 🎓 [PhD Research] Financial Crisis Prediction with NLP, Time Series, ML, DL & Transformers
+### 🎓 [Completed PhD Research] Financial Crisis Prediction with NLP, Time Series, ML, DL & Transformers
 [![GitHub](https://img.shields.io/badge/-View_Repository-181717?style=flat-square&logo=github)](https://github.com/bayramkotan/financial-crisis-prediction-nlp-ts-ml-dl-transformers)
 
-**Ongoing doctoral research** — An interdisciplinary project combining natural language processing, time series analysis, and transformer models to predict financial crises. This work demonstrates the application of cutting-edge ML techniques to real-world economic challenges.
+**Doctoral dissertation** — An interdisciplinary project combining natural language processing, time series analysis, and transformer models to predict financial crises. This work demonstrates the application of cutting-edge ML techniques to real-world economic challenges.
 
 **Key Features:**
 - **NLP Pipeline:** Sentiment analysis of financial news, reports, and social media
@@ -324,11 +324,11 @@ I'm always interested in discussing network security, intrusion detection system
 
 ## Hakkımda
 
-Veri bilimi, bulut mimarisi ve iş zekası alanlarında on yılı aşkın uygulamalı deneyime sahip Doktora Adayı ve Veri & Bulut Mimarıyım. Mühendislik Yüksek Lisansı derecesinin yanı sıra PMP®, Microsoft Azure, Cisco CCNA ve ISC² CC sertifikalarına sahibim.
+Veri bilimi, bulut mimarisi ve iş zekası alanlarında on yılı aşkın uygulamalı deneyime sahip Doktor ve Veri & Bulut Mimarıyım. Doktora derecesinin yanı sıra Mühendislik Yüksek Lisansı ve PMP®, Microsoft Azure, Cisco CCNA ve ISC² CC sertifikalarına sahibim.
 
 Teknolojinin gerçek dünya problemlerini çözme gücü beni motive ediyor. Organizasyonların akıllı, veri odaklı stratejilerle hedeflerine ulaşmasını sağlamak için çalışıyorum. Uzmanlığım önde gelen bulut platformları (Azure, AWS, GCP), sanallaştırma teknolojileri (Docker, Kubernetes, VMware, KVM) ve açık kaynak sistemleri (Linux, FreeBSD, Unix) kapsıyor. Operasyonel verimliliği ve inovasyonu artıran güvenli, ölçeklenebilir altyapılar inşa etmede uzmanlaşıyorum.
 
-Doktora araştırmam, Doğal Dil İşleme, zaman serisi analizi, makine öğrenmesi, derin öğrenme ve transformer mimarilerini birleştiren çok modlu bir yaklaşımla finansal kriz tahminine odaklanıyor. Finansal metinlerdeki duyguları analiz ederek ve ekonomik göstergeleri tahmin ederek, potansiyel piyasa bozulmaları için erken uyarı sinyalleri sağlayabilecek modeller geliştiriyorum.
+Doktora araştırmamda, Doğal Dil İşleme, zaman serisi analizi, makine öğrenmesi, derin öğrenme ve transformer mimarilerini birleştiren çok modlu bir yaklaşımla finansal kriz tahminine odaklandım. Finansal metinlerdeki duyguları analiz ederek ve ekonomik göstergeleri tahmin ederek, potansiyel piyasa bozulmaları için erken uyarı sinyalleri sağlayan modeller geliştirdim.
 
 Ayrıca ağ güvenliği alanında aktif araştırmalarımı sürdürüyorum — "Makine Öğrenmesi Kullanarak Ağ İzleme Sistemi: Ağ Trafiği İzleme için Sınıflandırma Tekniklerinin Karşılaştırmalı Analizi" başlıklı Yüksek Lisans tezimde (2019) NSL-KDD veri seti üzerinde 6 farklı algoritmayı karşılaştırdım ve DoS, Probe, R2L ve U2R saldırılarını sınıflandırırken tek bir "en iyi" modelden ziyade bağlamın önemli olduğunu gösterdim.
 
@@ -340,7 +340,7 @@ Power BI ve Tableau gibi BI araçlarıyla gelişmiş analitikten sanallaştırma
 
 ```
 📂 Mevcut Odak Alanları
-├── 🎓 Doktora Araştırması: Finansal Kriz Tahmini
+├── 🎓 Tamamlanan Doktora Araştırması: Finansal Kriz Tahmini
 │   ├── NLP, Zaman Serisi, ML, DL ve Transformers'ı birleştiren çok modlu yaklaşım
 │   ├── Finansal metinlerin ve haberlerin duygu analizi
 │   ├── Derin öğrenme ile ekonomik gösterge tahmini
@@ -534,10 +534,10 @@ NLP & Transformers  : Hugging Face · Duygu Analizi · Metin Sınıflandırma
 
 ## Öne Çıkan Projeler
 
-### 🎓 [Doktora Araştırması] NLP, Zaman Serisi, ML, DL ve Transformers ile Finansal Kriz Tahmini
+### 🎓 [Tamamlanan Doktora Araştırması] NLP, Zaman Serisi, ML, DL ve Transformers ile Finansal Kriz Tahmini
 [![GitHub](https://img.shields.io/badge/-Repository'yi_Görüntüle-181717?style=flat-square&logo=github)](https://github.com/bayramkotan/financial-crisis-prediction-nlp-ts-ml-dl-transformers)
 
-**Devam eden doktora araştırması** — Finansal krizleri tahmin etmek için doğal dil işleme, zaman serisi analizi ve transformer modellerini birleştiren disiplinlerarası bir proje. Bu çalışma, en güncel ML tekniklerinin gerçek dünya ekonomik zorluklarına uygulanmasını gösteriyor.
+**Doktora tezi** — Finansal krizleri tahmin etmek için doğal dil işleme, zaman serisi analizi ve transformer modellerini birleştiren disiplinlerarası bir proje. Bu çalışma, en güncel ML tekniklerinin gerçek dünya ekonomik zorluklarına uygulanmasını gösteriyor.
 
 **Temel Özellikler:**
 - **NLP Pipeline:** Finansal haberler, raporlar ve sosyal medyanın duygu analizi
