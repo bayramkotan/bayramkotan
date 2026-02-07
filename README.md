@@ -37,12 +37,6 @@ Whether through advanced analytics with BI tools like Power BI and Tableau, or v
 
 ```
 📂 Current Focus
-├── 🎓 Completed PhD Research: Financial Crisis Prediction
-│   ├── Multi-modal approach combining NLP, Time Series, ML, DL & Transformers
-│   ├── Sentiment analysis of financial texts and news
-│   ├── Economic indicator forecasting with deep learning
-│   └── Transformer architectures for sequence modeling
-│
 ├── ☁️ Cloud & Data Architecture
 │   ├── Designing scalable enterprise solutions on Azure, AWS, GCP
 │   ├── Building data pipelines and ETL processes
@@ -53,10 +47,15 @@ Whether through advanced analytics with BI tools like Power BI and Tableau, or v
 │   ├── Data visualization and executive dashboards
 │   └── Data-driven decision support systems
 │
-└── 🐧 Open Source & DevOps
-    ├── Container orchestration with Docker & Kubernetes
-    ├── Linux/FreeBSD system administration
-    └── Virtualization solutions (KVM, VMware, Proxmox)
+├── 🐧 Open Source & DevOps
+│   ├── Container orchestration with Docker & Kubernetes
+│   ├── Linux/FreeBSD system administration
+│   └── Virtualization solutions (KVM, VMware, Proxmox)
+│
+└── 🔬 Research & Innovation
+    ├── Machine learning applications in finance
+    ├── Network security and anomaly detection
+    └── Deep learning model optimization
 ```
 
 ---
@@ -231,7 +230,7 @@ NLP & Transformers  : Hugging Face · Sentiment Analysis · Text Classification
 
 ## Featured Projects
 
-### 🎓 [Completed PhD Research] Financial Crisis Prediction with NLP, Time Series, ML, DL & Transformers
+### 🎓 [PhD Dissertation] Financial Crisis Prediction with NLP, Time Series, ML, DL & Transformers
 [![GitHub](https://img.shields.io/badge/-View_Repository-181717?style=flat-square&logo=github)](https://github.com/bayramkotan/financial-crisis-prediction-nlp-ts-ml-dl-transformers)
 
 **Doctoral dissertation** — An interdisciplinary project combining natural language processing, time series analysis, and transformer models to predict financial crises. This work demonstrates the application of cutting-edge ML techniques to real-world economic challenges.
@@ -340,12 +339,6 @@ Power BI ve Tableau gibi BI araçlarıyla gelişmiş analitikten sanallaştırma
 
 ```
 📂 Mevcut Odak Alanları
-├── 🎓 Tamamlanan Doktora Araştırması: Finansal Kriz Tahmini
-│   ├── NLP, Zaman Serisi, ML, DL ve Transformers'ı birleştiren çok modlu yaklaşım
-│   ├── Finansal metinlerin ve haberlerin duygu analizi
-│   ├── Derin öğrenme ile ekonomik gösterge tahmini
-│   └── Dizi modelleme için Transformer mimarileri
-│
 ├── ☁️ Bulut & Veri Mimarisi
 │   ├── Azure, AWS, GCP üzerinde ölçeklenebilir kurumsal çözümler tasarlama
 │   ├── Veri pipeline'ları ve ETL süreçleri oluşturma
@@ -356,10 +349,15 @@ Power BI ve Tableau gibi BI araçlarıyla gelişmiş analitikten sanallaştırma
 │   ├── Veri görselleştirme ve yönetici dashboard'ları
 │   └── Veri odaklı karar destek sistemleri
 │
-└── 🐧 Açık Kaynak & DevOps
-    ├── Docker ve Kubernetes ile container orkestrasyonu
-    ├── Linux/FreeBSD sistem yönetimi
-    └── Sanallaştırma çözümleri (KVM, VMware, Proxmox)
+├── 🐧 Açık Kaynak & DevOps
+│   ├── Docker ve Kubernetes ile container orkestrasyonu
+│   ├── Linux/FreeBSD sistem yönetimi
+│   └── Sanallaştırma çözümleri (KVM, VMware, Proxmox)
+│
+└── 🔬 Araştırma & İnovasyon
+    ├── Finans alanında makine öğrenmesi uygulamaları
+    ├── Ağ güvenliği ve anomali tespiti
+    └── Derin öğrenme model optimizasyonu
 ```
 
 ---
@@ -534,7 +532,7 @@ NLP & Transformers  : Hugging Face · Duygu Analizi · Metin Sınıflandırma
 
 ## Öne Çıkan Projeler
 
-### 🎓 [Tamamlanan Doktora Araştırması] NLP, Zaman Serisi, ML, DL ve Transformers ile Finansal Kriz Tahmini
+### 🎓 [Doktora Tezi] NLP, Zaman Serisi, ML, DL ve Transformers ile Finansal Kriz Tahmini
 [![GitHub](https://img.shields.io/badge/-Repository'yi_Görüntüle-181717?style=flat-square&logo=github)](https://github.com/bayramkotan/financial-crisis-prediction-nlp-ts-ml-dl-transformers)
 
 **Doktora tezi** — Finansal krizleri tahmin etmek için doğal dil işleme, zaman serisi analizi ve transformer modellerini birleştiren disiplinlerarası bir proje. Bu çalışma, en güncel ML tekniklerinin gerçek dünya ekonomik zorluklarına uygulanmasını gösteriyor.
