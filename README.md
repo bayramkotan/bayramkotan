@@ -286,23 +286,6 @@ A practical networking tool for IP subnet calculations, demonstrating applied kn
 
 ---
 
-## GitHub Statistics
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayramkotan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10&hide=jupyter%20notebook" height="200" />
-
-</div>
-
-<div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/bayramkotan?style=for-the-badge&logo=github&labelColor=0d1117&color=58a6ff)
-![GitHub stars](https://img.shields.io/github/stars/bayramkotan?style=for-the-badge&logo=github&labelColor=0d1117&color=58a6ff)
-
-</div>
-
----
-
 ## Let's Connect
 
 I'm always interested in discussing network security, intrusion detection systems, machine learning applications, or potential collaborations. Whether you have questions about my research, want to explore joint projects, or just want to talk about the latest developments in AI/ML for cybersecurity — feel free to reach out!
@@ -585,23 +568,6 @@ NLP & Transformers  : Hugging Face · Duygu Analizi · Metin Sınıflandırma
 IP alt ağ hesaplamaları için pratik bir ağ aracı, ağ temellerinin uygulamalı bilgisini gösteriyor.
 
 **Teknoloji Stack'i:** `C#` `.NET`
-
----
-
-## GitHub İstatistikleri
-
-<div align="center">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayramkotan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10&locale=tr&hide=jupyter%20notebook" height="200" />
-
-</div>
-
-<div align="center">
-
-![GitHub followers](https://img.shields.io/github/followers/bayramkotan?style=for-the-badge&logo=github&labelColor=0d1117&color=58a6ff&label=Takipçi)
-![GitHub stars](https://img.shields.io/github/stars/bayramkotan?style=for-the-badge&logo=github&labelColor=0d1117&color=58a6ff&label=Yıldız)
-
-</div>
 
 ---
 
