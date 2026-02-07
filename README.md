@@ -290,7 +290,7 @@ A practical networking tool for IP subnet calculations, demonstrating applied kn
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayramkotan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10" height="200" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayramkotan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10&hide=jupyter%20notebook" height="200" />
 
 </div>
 
@@ -592,7 +592,7 @@ IP alt ağ hesaplamaları için pratik bir ağ aracı, ağ temellerinin uygulama
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayramkotan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10&locale=tr" height="200" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=bayramkotan&layout=compact&theme=github_dark&hide_border=true&bg_color=0d1117&title_color=58a6ff&text_color=c9d1d9&langs_count=10&locale=tr&hide=jupyter%20notebook" height="200" />
 
 </div>
 
